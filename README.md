@@ -30,3 +30,4 @@ An AI-powered Resume Analyzer that extracts text from PDF resumes, finds the bes
 - Multi-language support for global accessibility  
 - ATS (Applicant Tracking System) optimization tips  
 
+## This project is a work in progress, and I plan to improve it continuously. Contributions, suggestions, and ideas are always welcome! 🚀
